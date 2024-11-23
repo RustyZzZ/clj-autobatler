@@ -1,0 +1,5 @@
+{:strength [:health :damage]
+ :dexterity [:evasion :accuracy]}
+
+
+
